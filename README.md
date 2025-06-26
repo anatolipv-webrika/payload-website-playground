@@ -1,2 +1,3 @@
 # payload-website-playground
-Payload website template playground
+
+Payload website template-playground
